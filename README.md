@@ -6,7 +6,7 @@ Operating Systems - Lab Codes - CSE : 2005
 # QUESTIONS
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Process Creation Programs](https://github.com/samarthgupta19/CSE-2005-Operating-Systems-Lab-Codes/tree/main/Process%20Creation%20Programs%20(Q1%20to%20Q4)
+[Process Creation](https://github.com/samarthgupta19/CSE-2005-Operating-Systems-Lab-Codes/tree/main/Process%20Creation%20Programs%20(Q1%20to%20Q4)
 
 1. Implement fork() process in C.
 
