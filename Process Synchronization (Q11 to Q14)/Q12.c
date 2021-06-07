@@ -1,3 +1,5 @@
+// 19BDS0042 SAMARTH GUPTA
+
 #include<semaphore.h>
 #include<stdio.h>
 #include<stdlib.h>
