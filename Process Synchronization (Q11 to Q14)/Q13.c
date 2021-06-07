@@ -1,3 +1,5 @@
+// 19BDS0042 SAMARTH GUPTA
+
 #include<stdlib.h>
 #include<stdio.h>
 int chopstick[5]={1,1,1,1,1};
