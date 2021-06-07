@@ -1,3 +1,5 @@
+// 19BDS0042 SAMARTH GUPTA
+
 #include<stdio.h>
 int main()
 {	int n,pg[30],fr[10],phit;
