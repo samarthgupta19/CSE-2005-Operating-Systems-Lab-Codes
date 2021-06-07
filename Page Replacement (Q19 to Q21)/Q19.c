@@ -1,3 +1,5 @@
+// 19BDS0042 SAMARTH GUPTA
+
 #include<stdio.h>
 int i,j,nof,ph,nors,flag=0,ref[50],frm[50],pf=0,victim=-1;
 void main()
