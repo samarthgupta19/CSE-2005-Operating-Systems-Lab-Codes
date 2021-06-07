@@ -1,3 +1,5 @@
+// 19BDS0042 SAMARTH GUPTA
+
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
