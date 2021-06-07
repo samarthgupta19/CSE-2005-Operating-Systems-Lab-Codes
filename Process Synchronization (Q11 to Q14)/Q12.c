@@ -46,5 +46,3 @@ int main()
 		pthread_join(readerthreads[i],NULL);
 	}
 }
-
-
