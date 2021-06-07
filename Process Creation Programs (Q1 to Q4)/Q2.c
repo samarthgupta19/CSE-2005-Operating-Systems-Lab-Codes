@@ -1,3 +1,5 @@
+// 19BDS0042 SAMARTH GUPTA
+
 #include<stdlib.h>
 #include<sys/types.h>
 #include<stdio.h>
