@@ -1,4 +1,4 @@
-# 19BDS0042 SAMARTH GUPTA
+// 19BDS0042 SAMARTH GUPTA
 
 #include<stdio.h>
 struct process
