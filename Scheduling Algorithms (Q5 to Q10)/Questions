@@ -2,9 +2,9 @@
 
 6. Implement Shortest Job First (SJF) Non Pre Emptive Scheduling Algorithm with Gantt Chart in C.
 
-7. Implement Priority Non-Pre-Emptive Scheduling Algorithm with Gantt Chart in C.
+7. Implement Priority Non-Pre-Emptive Scheduling Algorithm in C.
 
-8. Implement Priority Pre-Emptive Scheduling Algorithm with Gantt Chart in C.
+8. Implement Priority Pre-Emptive Scheduling Algorithm in C.
 
 9. Implement Shortest Remaining Time First (SRTF) Pre-Emptive Scheduling Algorithm with Gantt Chart in C.
 
