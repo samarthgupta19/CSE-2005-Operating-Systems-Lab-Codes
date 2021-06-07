@@ -1,3 +1,5 @@
+// 19BDS0042 SAMARTH GUPTA
+
 #include<stdio.h>
 struct time
 { int p,art,but,wtt,tat,st;
